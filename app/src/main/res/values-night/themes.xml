@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chaties" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#0d1137</item>
+        <item name="colorPrimaryVariant">#0d1137</item> <!-- You may adjust this to a slightly different shade if needed -->
+        <item name="colorOnPrimary">#ffffff</item> <!-- Text color on primary background -->
+        <item name="android:statusBarColor">#0d1137</item> <!-- Status bar color -->
+        <item name="android:navigationBarColor">#0d1137</item> <!-- Navigation bar color -->
+    </style>
+</resources>

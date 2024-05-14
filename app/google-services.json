@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026278312221",
+    "project_id": "chaties-a6240",
+    "storage_bucket": "chaties-a6240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026278312221:android:fa9f34a7cb0195be04f9f4",
+        "android_client_info": {
+          "package_name": "com.example.chaties"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKQuYBLXam5GFPJtZOU1j7RBsS0f21nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
